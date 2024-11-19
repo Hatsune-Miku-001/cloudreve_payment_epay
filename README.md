@@ -2,6 +2,8 @@
 
 这是一个用于Cloudreve Pro的支付中转件，基于PHP开发，旨在简化和安全地处理支付流程。
 
+> 目前未实现Cloudreve验签功能,故不需要填写通信密钥(Cloudreve仪表盘内的通信密钥可随意填写)
+
 ## 如何使用
 
 您只需将pay_gateway.php文件部署到支持PHP的HTTP服务器上（例如NGINX、Apache等），即可开始使用这个中转件。(使用样例见下方教程)
