@@ -33,6 +33,6 @@
 
 欢迎加入我们的QQ群：[565715364](https://qm.qq.com/q/jmyvgV4rOE) 来获取支持和交流。
 
-![QQ群二维码](https://cloud.lucloud.top/f/bAbsR/qrcode_1732011847970.jpg)
+![QQ群二维码](https://static-smikuy-oss.lucloud.top/img/upload/PicGo202411191828532.jpg?x-oss-process=style/webp)
 
 希望这个中转件能够为您带来方便，如有任何问题，请随时与我们联系。谢谢！
