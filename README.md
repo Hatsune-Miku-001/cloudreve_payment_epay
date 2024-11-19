@@ -31,8 +31,8 @@
 
 ## 联系我们
 
-欢迎加入我们的QQ群：[565715364](https://qm.qq.com/q/jmyvgV4rOE) 来获取支持和交流。
+欢迎加入我们的QQ群：[565715364](https://qm.qq.com/q/jmyvgV4rOE) 来获取支持和交流。(也可以来聊天吹水)
 
-![QQ群二维码](https://static-smikuy-oss.lucloud.top/img/upload/PicGo202411191828532.jpg?x-oss-process=style/webp)
+<img src="https://static-smikuy-oss.lucloud.top/img/upload/PicGo202411191830583.webp?x-oss-process=style/webp" alt="QQ群二维码" style="zoom:33%;" />
 
 希望这个中转件能够为您带来方便，如有任何问题，请随时与我们联系。谢谢！
